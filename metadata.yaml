@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/247
     wikipedia: http://en.wikipedia.org/wiki/Stewart_Edward_White
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22233#Blazed-Trail-Stories-and-Stories-of-the-Wild-Life
 gutenberg_issued: '2007-08-04'
 gutenberg_type: Text
 identifiers:
